@@ -37,5 +37,5 @@ Para realizar as atividades propostas, utilizou-se da seguinte estrutura:
 
 ## Arquivos de resolução
 
-Os arquivos de resolução se encontram anexados e separados por atividade. Consistem em scripts SQL e arquivos gerados no formato .csv
+Os arquivos de resolução se encontram anexados e separados por atividade. Consistem em scripts SQL.
 
